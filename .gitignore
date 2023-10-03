@@ -1,0 +1,17 @@
+#files dumped by scripts
+datadump
+*.csv
+
+#credentials
+.env
+
+#system generated log files
+*cache*
+*STORE*
+
+#testing notebooks
+*.ipynb
+notebooks
+
+#testing sheets
+test.py
